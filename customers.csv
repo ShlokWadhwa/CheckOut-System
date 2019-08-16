@@ -1,0 +1,7 @@
+acc_num,fname,lname,pin,balance,isemployee
+101,Jane,Doe,2233,0,TRUE
+102,John,Doe,6789,10000,FALSE
+103,Mark,Smith,9876,20000,FALSE
+104,Brittney,Gunther,5000,5000,FALSE
+105,Ashley,Martin,2233,0,TRUE
+106,Rachel,Dorn,1567,500,FALSE
